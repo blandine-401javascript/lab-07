@@ -1,0 +1,40 @@
+
+
+
+{
+  "categories" : [
+    {
+      "id" : 1,
+      "name": "furniture",
+      "display_name":"sofa",
+      "description": "this furniture is made with leather"
+    },
+
+    {
+      "id" : 2,
+      "name": "electronics",
+      "display_name":"laptop",
+      "description": "hp envy 360"
+    }
+  ],
+   
+  "products": [
+    {
+      "id": 1,
+      "category" : "furniture",
+      "name" : "bed",
+      "display_name" : "",
+      "description" : "pillow top bed"
+    },
+
+    {
+      "id": 2,
+      "category" : "electronics",
+      "name" : "phone",
+      "display_name" : "samsung phone",
+      "description" : "samsung s10"
+    }
+
+  ]
+  
+}

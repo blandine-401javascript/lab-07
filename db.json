@@ -5,14 +5,14 @@
   "categories" : [
     {
       "id" : 1,
-      " name": "furniture",
+      "name": "furniture",
       "display_name":"sofa",
       "description": "this furniture is made with leather"
     },
 
     {
       "id" : 2,
-      " name": "electronics",
+      "name": "electronics",
       "display_name":"laptop",
       "description": "hp envy 360"
     }
